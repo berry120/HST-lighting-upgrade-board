@@ -1,0 +1,13 @@
+*.epf linguist-language=Eagle
+*.dri linguist-language=Eagle
+*.GBL linguist-language=Eagle
+*.GBO linguist-language=Eagle
+*.GBP linguist-language=Eagle
+*.GBS linguist-language=Eagle
+*.GML linguist-language=Eagle
+*.gpi linguist-language=Eagle
+*.GTL linguist-language=Eagle
+*.GTO linguist-language=Eagle
+*.GTP linguist-language=Eagle
+*.GTS linguist-language=Eagle
+*.TXT linguist-language=Eagle
